@@ -1,0 +1,65 @@
+body{
+    color:darkgreen;
+    background-color: white;
+    font-style: normal;
+    background-image: url("/Users/elledavis/Desktop/Hey/TECH/PerScholas/Images/upsplash_background.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav{
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    padding: 12px 12px 12px 32px;
+    margin: auto;
+    padding: auto;
+    background-color: black;
+    overflow: hidden;
+    float: right;
+    display: inline-block;
+}
+
+nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+#form{
+   
+
+}
+
+h1, h2, h3{
+    color:rgb(239, 161, 16);
+    font-size: x-large;
+    font-style: Georgia (serif);
+    
+}
+img{
+    width: 200px;
+    height: 330px;
+    margin: auto;
+    padding: auto;
+    border: 50px;
+    align-content: center;
+}
+
+p{
+    color:navy;
+    background-color:lightblue;
+    font-style: normal;
+    word-wrap: break-word;
+
+}
+
+#aboutMe{
+    color:darkmagenta;
+    background-color:violet;
+    font-style: normal;   
+}
